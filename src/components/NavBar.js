@@ -5,7 +5,7 @@ import { BrowserRouter } from "react-router-dom/cjs/react-router-dom.min";
 function NavBar() {
   return (
     <BrowserRouter>
-  <div>
+  <div className='navbar'>
 
    <nav>
       <ul>
