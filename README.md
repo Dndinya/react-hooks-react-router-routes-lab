@@ -34,7 +34,7 @@ src/
     ├── Directors.js
     ├── Home.js
     ├── Movies.js
-    └── NavBar.js
+    └── NavBar.js 
 ```
 
 All of the file and module imports are done for you, so you just need to focus
